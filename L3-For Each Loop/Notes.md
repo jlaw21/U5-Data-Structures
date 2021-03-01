@@ -39,7 +39,7 @@ Let's go to the [**Sandbox**][sandbox]
 
 1. Prompt the user to enter 5 names, then output those names. 
 
-2. An employee works 5 days a week at $9.50/hour. Prompt the user to enter their hours worked for a month and output their weekly income totals.
+2. An employee works 5 days a week at $9.50/hour. Prompt the user to enter their hours worked for two weeks and output each week's income.
 
 
 [sandbox]: ../L3-For%20Each%20Loop/src/Main.java
